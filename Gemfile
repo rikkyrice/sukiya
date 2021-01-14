@@ -73,7 +73,7 @@ gem 'holidays'
 
 gem 'devise'
 
-gem 'rails_admin', '~> 1.3'
+gem 'rails_admin', '~> 1.4'
 
 gem 'cancancan', '~> 2.0'
 
